@@ -63,7 +63,10 @@ const allResourcesPageData: { [key: string]: ResourceModuleData } = {
           { title: "Qwen by Alibaba", href: "https://chat.qwenlm.ai/" },
           { title: "ChatGLM by Zhipu AI", href: "https://chat.z.ai/" },
           { title: "MiniMax by MiniMax", href: "https://chat.minimax.io/" },
-          { title: "Others", href: "None" },
+          { title: "Hunyuan by Tencent", href: "https://hunyuan.tencent.com/" },
+          { title: "Yiyan by Baidu", href: "https://yiyan.baidu.com/" },
+          { title: "Douban by ByteDance", href: "https://www.doubao.com/" },
+          { title: "StepFun by StepFun", href: "https://stepfun.ai/" },
         ],
       },
       {
@@ -101,7 +104,7 @@ const allResourcesPageData: { [key: string]: ResourceModuleData } = {
           { title: "Hailuo", href: "https://hailuoai.video/" },
           { title: "Wan", href: "https://wan.video/" },
           { title: "Hunyuan", href: "https://hunyuanvideoai.com/" },
-          { title: "Others", href: "None" },
+          { title: "Dreamina", href: "https://dreamina.capcut.com/" },
         ],
       },
       {
